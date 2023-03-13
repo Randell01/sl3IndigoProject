@@ -4,4 +4,4 @@ Short description: Artificial noise will be added to a clean audio recording, va
 Project Features:<br> 
 1) Utilization of Wavelet Transform in Denoising Audio Signals<br>
 2) Compare Feasibility based on the Performances of the Wavelets or their Combinations<br>
-3) Conclude which Wavelet to use or which Combination of Wavelets to use to Denoise Audio Signals<br>
+3) Conclude which Wavelet to use or which Combination of Wavelets to use to Denoise Audio Signals
